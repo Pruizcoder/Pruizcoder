@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Pruizcoder
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning c/c++/arduino and networking at school
-- 💞️ I’m looking to collaborate on nothing atm
-- 📫 How to reach me: Discord (pruiz#0315)
+- 🌱 I’m currently learning c/c++/java/php and networking at school
+
